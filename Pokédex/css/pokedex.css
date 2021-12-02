@@ -1,0 +1,45 @@
+body{
+    background-image: url(https://professorlotus.com/Photos/pika.jpg);
+}
+
+.cadrePika {
+    border: solid white 3px;
+    position: fixed;
+}
+
+.centrerLogo {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.header h1 {
+    font-weight: 500;
+    text-align: center;
+}
+
+.sprite a {
+    padding-right: 15px;
+}
+
+.sprite {
+    display: block;
+    flex-direction: row;
+    align-items: left;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sprite2 {
+    margin-top: 30px;
+    display: block;
+    flex-direction: row;
+    align-items: left;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sprite3 {
+    text-align: center;
+    padding-top: 30px;
+}

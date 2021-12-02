@@ -1,0 +1,71 @@
+body{
+  background-image: radial-gradient(orange, white);
+  font-size: 22px;
+  font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    font-family: arial;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+  }
+  
+  a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .previous {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .next {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .round {
+    border-radius: 50%;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+    font-family: arial bold;
+  }
+  
+  tr, td {
+    text-align: left;
+    padding: 16px;
+    font-family: arial bold;
+    color: black;
+  }
+  label {
+    padding-right: 10px;
+    font-size: 1rem;
+}
+.tab-color {
+  filter: invert(5%);
+  background-image: linear-gradient(
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0.1)
+  );
+}
+.sprite {
+  text-align: center;
+}
+.btn {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+.type {
+  text-align: center;
+}
